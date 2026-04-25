@@ -1,6 +1,6 @@
 # UAE Store Locator
 
-A simple store locator web app built using OpenStreetMap (Nominatim API).
+A store locator web app built using OpenStreetMap (Nominatim API).
 
 ## 🚀 Features
 - Location autocomplete (UAE restricted 🇦🇪)
