@@ -29,7 +29,7 @@ A store locator web app built using OpenStreetMap (Nominatim API).
 🔮 Future Improvements
 - Laravel backend integration
 - Map view using Leaflet
-- Radius-based filtering (e.g., 10km)
+- Radius-based filtering (e.g., 10km, 5km)
 
 👨‍💻 Author
 SHIVAM BHAGAT
